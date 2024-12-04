@@ -4,15 +4,15 @@ import numpy as np
 import pickle
 from sklearn.preprocessing import LabelEncoder, MinMaxScaler
 
-# Load the trained model and scaler
+
 model = pickle.load(open('logistic_regression.pkl', 'rb'))
 scaler = pickle.load(open('scaler.pkl', 'rb'))
 lb = pickle.load(open('label_encoder.pkl', 'rb'))
 
-# Create the Streamlit app
+
 st.title("Liver Disease Prediction App")
 
-# Input features
+
 st.header("Enter patient information:")
 age = st.number_input("Age", min_value=0, max_value=100, value=40)
 gender = st.selectbox("Gender", ["Male", "Female"])
@@ -26,9 +26,9 @@ albumin = st.number_input("Albumin", min_value=0.0, value=4.0)
 albumin_and_globulin_ratio = st.number_input("Albumin and Globulin Ratio", min_value=0.0, value=1.0)
 
 
-# Create a button to predict
+
 if st.button("Predict"):
-    # Preprocess the input data
+    
     input_data = pd.DataFrame({
         'Age': [age],
         'Gender': [gender],
@@ -45,10 +45,10 @@ if st.button("Predict"):
     input_data['Gender'] = lb.transform(input_data['Gender'])
     input_data_scaled = scaler.transform(input_data)
 
-    # Make a prediction
+    
     prediction = model.predict(input_data_scaled)
 
-    # Display the prediction
+    
     if prediction[0] == 0:
       st.write("Prediction: Patient has liver disease.")
     else:
