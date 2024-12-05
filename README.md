@@ -3,7 +3,7 @@ This repository contains 6 different project directories, each focused on a spec
 
 **Project Structure:**
 
-* Liver Disease Prediction: To accurately identify language from a given text.
+* Liver Disease Prediction: To predict likelihood of liver disease.
 * Resume Screening App: To classify Resumes based on roles.
 * Emotion Detection: To classify emotions expressed in text.
 * Language Detection: To identify language from a given text.
