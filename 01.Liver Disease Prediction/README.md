@@ -1,6 +1,6 @@
 This directory contains the code and resources for liver disease prediction project.
 
-![Liver Disease Prediction App Screenshot](LiverDiseasePrediction.png)
+![Liver Disease Prediction App Screenshot](01.Liver Disease Prediction/Liver Disease Prediction.png)
 
 ## Files
 
