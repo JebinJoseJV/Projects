@@ -33,3 +33,4 @@ This will launch the application in your web browser.
 *   The app will analyze the resume based on the pre-trained model.
 *   The app then categorizes the resume.
 
+![Resume Category Prediction](https://github.com/user-attachments/assets/e7317b99-0fce-498b-8770-f2886c432dd2)
