@@ -1,4 +1,6 @@
-This directory contains the code and resources for a liver disease prediction project.
+This directory contains the code and resources for liver disease prediction project.
+
+![Liver Disease Prediction App Screenshot](LiverDiseasePrediction.png)
 
 ## Files
 
