@@ -6,9 +6,9 @@ This repository contains 6 different project directories, each focused on a spec
 * Liver Disease Prediction: To accurately identify language from a given text.
 * Resume Screening App: To classify Resumes based on roles.
 * Emotion Detection: To classify emotions expressed in text.
-* Language Detection: TO identify language from a given text.
+* Language Detection: To identify language from a given text.
 * Next Word Prediction: To predict next word from sequence of words.
-* Hate Speech Recognition: TO identify and classify hate speech.
+* Hate Speech Recognition: To identify and classify hate speech.
 
 **Getting Started:**
 
