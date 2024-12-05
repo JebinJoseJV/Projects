@@ -38,3 +38,6 @@ This will launch the application in your web browser.
 
 The application allows users to input text and get a prediction of whether the text contains hate speech.
 
+![Hate Speech Recognition](https://github.com/user-attachments/assets/6d584dde-e970-4490-9137-9977dd4d66d2)
+
+
