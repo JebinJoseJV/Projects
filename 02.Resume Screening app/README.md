@@ -1,4 +1,4 @@
-This repository contains the code and resources for a resume screening application built using Streamlit.  
+This directory contains the code and resources for a resume screening application.  
 
 ## Project Structure
 
