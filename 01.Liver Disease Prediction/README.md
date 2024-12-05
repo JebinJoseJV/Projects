@@ -1,6 +1,6 @@
 This directory contains the code and resources for liver disease prediction project.
 
-![Liver Disease Prediction](https://github.com/user-attachments/assets/e06d715c-9d3b-424d-ada8-214f8def6030)
+
 
 
 ## Files
@@ -20,3 +20,5 @@ This directory contains the code and resources for liver disease prediction proj
     streamlit run app.py
     ```
 3.  **Explore the Data and Model:** Open `Liver Disease Prediction.ipynb` in a Jupyter Notebook environment to review the data analysis and model building process.
+
+![Liver Disease Prediction](https://github.com/user-attachments/assets/e06d715c-9d3b-424d-ada8-214f8def6030)
