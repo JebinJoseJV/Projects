@@ -1,6 +1,7 @@
 This directory contains the code and resources for liver disease prediction project.
 
-![Liver Disease Prediction App Screenshot](Liver Disease Prediction.png)
+![Liver Disease Prediction](https://github.com/user-attachments/assets/e06d715c-9d3b-424d-ada8-214f8def6030)
+
 
 ## Files
 
