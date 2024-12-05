@@ -16,4 +16,4 @@ This repository contains the code and resources for a liver disease prediction p
     ```bash
     streamlit run app.py
     ```
-3.  **Explore the Data and Model (Optional):** Open `Liver Disease Prediction.ipynb` in a Jupyter Notebook environment to review the data analysis and model building process.
+3.  **Explore the Data and Model:** Open `Liver Disease Prediction.ipynb` in a Jupyter Notebook environment to review the data analysis and model building process.
