@@ -1,4 +1,4 @@
-This directory contains the code and resources for an emotion detection application built using Streamlit.
+This directory contains the code and resources for  emotion detection application.
 
 ## Project Structure
 
@@ -39,3 +39,5 @@ This directory contains the code and resources for an emotion detection applicat
 ## Usage
 
 Once the application is running, you can interact with it through your web browser. 
+
+![Emotion Detector](https://github.com/user-attachments/assets/12f39ab3-8c21-45c3-add8-2e4d4150e52e)
