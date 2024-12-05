@@ -3,7 +3,7 @@ This repository contains the code and resources for a resume screening applicati
 ## Project Structure
 
 * **`app.py`**: The main Streamlit application file.  Run this to launch the  app.
-* **`Resume Screening`**: Jupyter Notebook containing exploratory data analysis (EDA) and the model training process. This notebook demonstrates the steps involved in preparing the data and building the machine learning model used for resume screening.
+* **`Resume Screening.ipynb`**: Jupyter Notebook containing exploratory data analysis (EDA) and the model training process. This notebook demonstrates the steps involved in preparing the data and building the machine learning model used for resume screening.
 * **`requirements.txt`**:  Lists the project's dependencies. Use `pip install -r requirements.txt` to set up the environment.
 
 
