@@ -1,4 +1,4 @@
-This repository contains the code and resources for a liver disease prediction project.
+This directory contains the code and resources for a liver disease prediction project.
 
 ## Files
 
