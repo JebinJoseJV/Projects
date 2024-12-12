@@ -1,5 +1,7 @@
 # Movie Recommendation System
 
+![Screenshot 2024-12-12 141724](https://github.com/user-attachments/assets/dd59b828-9304-4876-9135-5e5898c1acaa)
+
 This project implements a movie recommendation system using cosine similarity based on movie features.
 
 ## Overview
@@ -15,7 +17,7 @@ The system analyzes movie data (genres, keywords, tagline, cast, director) to id
 
 3.  **View recommendations.** The system will display a list of recommended movies based on the similarity of their feature vectors to your input movie.
 
-![Screenshot 2024-12-12 141724](https://github.com/user-attachments/assets/dd59b828-9304-4876-9135-5e5898c1acaa)
+
 
 
 
