@@ -15,4 +15,7 @@ The system analyzes movie data (genres, keywords, tagline, cast, director) to id
 
 3.  **View recommendations.** The system will display a list of recommended movies based on the similarity of their feature vectors to your input movie.
 
+![Uploading image.png…]()
+
+
 
